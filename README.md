@@ -5,6 +5,7 @@ It will install all required nodes to run the app in your machine 😊
 
 ### `npm start`
 
+This command will start the app and run in it you local machine
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
