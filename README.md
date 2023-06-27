@@ -1,3 +1,8 @@
+### `node install`
+
+Open the command terminal in vscode and write  "node install"  and enter.
+It will install all required nodes to run the app in your machine 😊 
+
 ### `npm start`
 
 Runs the app in the development mode.\
